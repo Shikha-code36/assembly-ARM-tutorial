@@ -79,3 +79,8 @@ BMI negative   ; Branch to 'negative' if result is negative (Negative flag set)
 This guide provides an organized overview of ARM assembly language programming concepts.Beginners can use this as a foundation for further learning and practice in ARM assembly programming.
 
 
+### File Extensions for ARM Assembly
+
+- **.s**: Use this extension for ARM assembly code files intended for the GNU Assembler (GAS), which is part of the GNU toolchain commonly used on Linux systems, including the Raspberry Pi.
+
+- **.asm**: This extension can also be used for assembly code files but is more commonly associated with Intel syntax and assemblers like NASM or MASM. For ARM assembly on Raspberry Pi, `.s` is the preferred extension when using GAS.
