@@ -76,6 +76,6 @@ SUBS R6, R4, R3; Subtract R3 from R4, update flags based on result
 BMI negative   ; Branch to 'negative' if result is negative (Negative flag set)
 ```
 
-This guide provides an organized overview of ARM assembly language programming concepts. It includes detailed explanations of registers and their uses, memory sizes, stack memory management, and conditional execution using CPSR flags. Beginners can use this as a foundation for further learning and practice in ARM assembly programming.
+This guide provides an organized overview of ARM assembly language programming concepts.Beginners can use this as a foundation for further learning and practice in ARM assembly programming.
 
 
