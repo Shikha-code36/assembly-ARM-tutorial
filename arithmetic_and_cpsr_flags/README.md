@@ -42,11 +42,11 @@ The CPSR flags are affected by certain arithmetic instructions that have an 'S' 
 Here are some instructions that affect CPSR flags:
 
 - `SUBS`: Subtracts like `SUB` but also updates CPSR flags. It's useful for setting up conditions for subsequent instructions.
-```assembly
-SUBS R2, R0, R1
-```
-This line not only subtracts the value in R1 from R0 but also updates the CPSR flags based on the result.
-  
+   ```assembly
+   SUBS R2, R0, R1
+   ```
+   This line not only subtracts the value in R1 from R0 but also updates the CPSR flags based on the result.
+    
 - `ADDS`: This instruction adds two register values and updates the CPSR flags based on the result. For example:
   ```assembly
   ADDS R2, R0, R1
