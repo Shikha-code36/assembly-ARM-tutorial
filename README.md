@@ -88,4 +88,5 @@ This guide provides an organized overview of ARM assembly language programming c
 ### Follow the Guide
 
 - [x] [First Program](first_program)
--  [x] [Addressing Modes](addressing_modes)
+- [x] [Addressing Modes](addressing_modes)
+- [x] [Arithmetic and CPSR Flags](arithmetic_and_cpsr_flags)
