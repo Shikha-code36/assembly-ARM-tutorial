@@ -95,3 +95,4 @@ This guide provides an organized overview of ARM assembly language programming c
 - [x] [Conditions and Branches](conditions_and_branches)
 - [x] [Loops with Branches](loops_with_branches)
 - [x] [Conditional Instruction Execution](conditional_instruction_execution)
+- [x] [Branch with Link Register and Returns](branch_with_link_register_and_returns)
