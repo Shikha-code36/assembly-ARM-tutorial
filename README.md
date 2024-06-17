@@ -92,3 +92,4 @@ This guide provides an organized overview of ARM assembly language programming c
 - [x] [Arithmetic and CPSR Flags](arithmetic_and_cpsr_flags)
 - [x] [Logical Operations](logical_operations)
 - [x] [Logical Shifts and Rotations](logical_shifts_and_rotations)
+- [x] [Conditions and Branches](conditions_and_branches)
