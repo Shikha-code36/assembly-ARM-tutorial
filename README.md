@@ -94,3 +94,4 @@ This guide provides an organized overview of ARM assembly language programming c
 - [x] [Logical Shifts and Rotations](logical_shifts_and_rotations)
 - [x] [Conditions and Branches](conditions_and_branches)
 - [x] [Loops with Branches](loops_with_branches)
+- [x] [Conditional Instruction Execution](conditional_instruction_execution)
