@@ -85,7 +85,9 @@ This guide provides an organized overview of ARM assembly language programming c
 
 - **.asm**: This extension can also be used for assembly code files but is more commonly associated with Intel syntax and assemblers like NASM or MASM. For ARM assembly on Raspberry Pi, `.s` is the preferred extension when using GAS.
 
-### Follow the Guide
+## Comprehensive ARM Assembly Programming Guide
+
+This section outlines the complete journey of learning ARM Assembly Language, from writing your first program to advanced hardware interactions and debugging techniques.
 
 - [x] [First Program](first_program)
 - [x] [Addressing Modes](addressing_modes)
@@ -101,3 +103,17 @@ This guide provides an organized overview of ARM assembly language programming c
 - [x] [Setting Up QEMU for ARM](setting_up_qemu_for_arm)
 - [x] [Printing Strings to Terminal](printing_strings_to_terminal)
 - [x] [Debugging Arm Programs with Gdb](debugging_arm_programs_with_gdb)
+
+## Acknowledgements
+
+This guide is based on the video tutorial by Scott Cosentino. You can watch the full tutorial [here](https://youtu.be/gfmRrPjnEw4?si=WZeq4fv6NHZRJnpT) and visit his channel [Olive Stem Learning](https://www.youtube.com/@olivestemlearning) for more educational content.
+
+A special thanks to Scott Cosentino for the comprehensive tutorial on ARM assembly language.
+
+## Show Your Support
+
+If you found this guide helpful, please consider starring the repository to show your support. Your star helps increase visibility and encourages more learners to discover and benefit from these educational resources.
+
+## License
+
+This project is released under the [MIT License](LICENSE).
