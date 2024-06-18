@@ -29,7 +29,7 @@ In essence, flipping a switch will turn on/off its corresponding LED.
 
 ## Simulator Image Explanation
 
-![Simulator Interface](hardware_interactions\switchled.png)
+![Simulator Interface](https://github.com/Shikha-code36/assembly-ARM-tutorial/blob/main/hardware_interactions/switchled.png)
 
 The image shows a simulator interface divided into two sections: "LEDs" and "Switches". Each section has its own set of addresses that correspond to physical components on an actual device.
 
