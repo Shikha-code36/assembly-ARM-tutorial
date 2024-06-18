@@ -99,3 +99,4 @@ This guide provides an organized overview of ARM assembly language programming c
 - [x] [Preserving and Retrieving Data From Stack Memory](preserving_and_retrieving_data_from_stack_memory)
 - [x] [Hardware Interactions](hardware_interactions)
 - [x] [Setting Up QEMU for ARM](setting_up_qemu_for_arm)
+- [x] [Printing Strings to Terminal](printing_strings_to_terminal)
