@@ -100,3 +100,4 @@ This guide provides an organized overview of ARM assembly language programming c
 - [x] [Hardware Interactions](hardware_interactions)
 - [x] [Setting Up QEMU for ARM](setting_up_qemu_for_arm)
 - [x] [Printing Strings to Terminal](printing_strings_to_terminal)
+- [x] [Debugging Arm Programs with Gdb](debugging_arm_programs_with_gdb)
